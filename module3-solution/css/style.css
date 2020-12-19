@@ -1,0 +1,72 @@
+#divcontainer{
+	margin:0;
+}
+#header-nav{
+	color:black;
+	background-color:gray;
+}
+
+#navbrand{
+	font-size:200%;
+	font-weight:bolder;
+	color:black;
+	margin:10px;
+}
+
+h2{
+	margin-top:0;
+	text-align:center;
+	font-size:150%;
+
+}
+
+#div-content{
+	color:black;
+	background-color:gray;
+	padding:20px;
+}
+
+p{
+	margin:0;
+	padding:0;
+}
+
+h1{
+	font-size:200%;
+	margin-bottom:50px;
+	font-weight:bold;
+
+}
+
+body{
+	color:black;
+	font-family: Comic Sans MS, Helvetica, sans-serif;
+}
+
+#nav-list{
+	padding:0;
+	margin:0;
+	background-color:white;
+	color:black;
+	text-align: center;
+}
+
+li{
+	font-size:120%;
+	color:black;
+	border:1px solid black;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border:1px solid black;
+	color:black;
+}
+
+.navbar-header button.navbar-toggle, navbar-header .icon-bar{
+	margin:15px;
+}
+
+#collapsable-nav{
+	padding: 0;
+}
+
